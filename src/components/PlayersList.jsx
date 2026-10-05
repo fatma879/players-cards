@@ -1,5 +1,5 @@
 import Player from "./Player";
-import players from "./players";
+import players from "../players";
 
 function PlayersList() {
   return (
